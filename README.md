@@ -1,4 +1,5 @@
 ### React Development Environment
+[![Build Status](https://travis-ci.org/RIP21/react-dev-environment.svg?branch=master)](https://travis-ci.org/RIP21/react-dev-environment)
 
 This is basically my standard development environment bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).. 
 
