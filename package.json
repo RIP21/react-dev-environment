@@ -22,7 +22,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-icons": "^2.2.5",
-    "recompose": "^0.25.1",
+    "recompose": "^0.26.0",
     "styled-components": "^2.2.0",
     "styled-normalize": "^2.2.1"
   },
