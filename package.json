@@ -24,7 +24,7 @@
     "react-icons": "^2.2.5",
     "recompose": "^0.26.0",
     "styled-components": "^2.2.0",
-    "styled-normalize": "^2.2.1"
+    "styled-normalize": "^3.0.1"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.2.0",
